@@ -1,2 +1,4 @@
-# Mahmoud-Mono
-A nice monospace typeface.
+# Mahmoud Monkey
+A nice typeface.
+
+🐵
