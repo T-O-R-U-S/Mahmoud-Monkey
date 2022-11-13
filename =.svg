@@ -1,4 +1,44 @@
-<svg width="42" height="36" viewBox="0 0 42 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="24" width="42" height="12" fill="black"/>
-<rect width="42" height="12" fill="black"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="42"
+   height="36"
+   viewBox="0 0 42 36"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="=.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="23.555556"
+     inkscape:cx="21.014151"
+     inkscape:cy="18.021226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path177"
+     style="fill:#000000"
+     d="M 0,24 H 42 V 36 H 0 Z" />
+  <path
+     id="path180"
+     style="fill:#000000"
+     d="M 0,0 H 42 V 12 H 0 Z" />
 </svg>

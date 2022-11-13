@@ -1,3 +1,40 @@
-<svg width="56" height="55" viewBox="0 0 56 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M6 55V6C23.5 6 28.5 7.5 28.5 17.5V20.5M28.5 20.5C28.5 8.76474 29.5 6.13371 37 6.08596C50.5 6 49 14.4284 49 20V55M28.5 20.5V55" stroke="black" stroke-width="12"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="56"
+   height="55"
+   viewBox="0 0 56 55"
+   fill="none"
+   version="1.1"
+   id="svg1488"
+   sodipodi:docname="m.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1492" />
+  <sodipodi:namedview
+     id="namedview1490"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.902301"
+     inkscape:cx="27.608851"
+     inkscape:cy="31.598834"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1488" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 0,0 V 55 H 12 V 12.263672 c 4.659462,0.254971 8.204176,0.66669 9.248047,1.160156 0.736752,0.348283 0.619678,0.307289 0.787109,0.65625 C 22.202587,14.42904 22.5,15.500002 22.5,17.5 v 3 34.5 h 12 V 20.5 c 0,-5.121245 0.519677,-7.725126 0.611328,-8.228516 0.282533,-0.0616 0.701951,-0.177742 1.927734,-0.185546 2.751417,-0.01752 4.255449,0.430477 4.88086,0.738281 0.62541,0.307804 0.560569,0.324319 0.71289,0.648437 C 42.937456,14.120892 43,16.675758 43,20 V 55 H 55 V 20 C 55,17.752647 55.812542,13.306509 53.492187,8.3691406 52.33201,5.9004562 50.110914,3.4790961 47.220703,2.0566406 44.330492,0.63418518 40.959514,0.06047693 36.960937,0.0859375 34.736006,0.1001029 32.618898,0.24628114 30.375,1.0996094 29.239616,1.5313827 28.114439,2.23027 27.117187,3.0898438 26.85664,2.9448945 26.64303,2.7019535 26.376953,2.5761719 20.975465,0.022741 14.92142,0 6,0 Z"
+     id="path1486" />
 </svg>

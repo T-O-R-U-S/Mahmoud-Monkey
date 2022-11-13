@@ -1,4 +1,46 @@
-<svg width="55" height="84" viewBox="0 0 55 84" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="28" cy="78" r="6" fill="black"/>
-<path d="M28 66.9999V53.9999C40 57.9999 49 53.4999 49 42.4999C49 31.4999 49 19.4999 49 19.4999C49 4.49994 33 6.99994 22 6.99994C11 6.99994 6 6.99994 6 28" stroke="black" stroke-width="12"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55"
+   height="84"
+   viewBox="0 0 55 84"
+   fill="none"
+   version="1.1"
+   id="svg610"
+   sodipodi:docname="?.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs614" />
+  <sodipodi:namedview
+     id="namedview612"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.095238"
+     inkscape:cx="27.537736"
+     inkscape:cy="42.049528"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg610" />
+  <circle
+     cx="28"
+     cy="78"
+     r="6"
+     fill="black"
+     id="circle606" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 30.802734,0.79101562 C 27.54793,0.7959015 24.522725,1 22,1 19.250003,1 16.647897,0.95802632 13.894531,1.40625 11.141165,1.8544737 8.0228046,2.9928136 5.6328125,5.3828125 0.85282826,10.16281 0,17.023792 0,28 H 12 C 12,17.976169 13.647177,14.337199 14.117188,13.867188 14.352193,13.632182 14.546339,13.458028 15.824219,13.25 17.102099,13.041972 19.250003,13 22,13 c 5.95454,0 12.399863,-0.430261 16.265625,0.46875 1.932881,0.449505 2.994495,1.08108 3.583984,1.742188 C 42.439099,15.872045 43,16.816682 43,19.5 v 23 c 0,3.863633 -1.034326,5.125469 -2.824219,6.080078 -1.789892,0.954609 -5.34657,1.372758 -10.279297,-0.271484 L 22,45.675781 V 67 h 12 v -5.75 c 4.23146,0.341188 8.278304,-0.188924 11.824219,-2.080078 C 51.534319,56.124535 55,49.636357 55,42.5 v -23 C 55,14.683345 53.560898,10.313487 50.806641,7.2246094 48.052383,4.1357317 44.426489,2.5817384 40.984375,1.78125 37.542261,0.98076164 34.057539,0.78612975 30.802734,0.79101562 Z"
+     id="path608" />
 </svg>
